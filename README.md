@@ -15,7 +15,7 @@ Documentation: https://stable-baselines.readthedocs.io/)
 - Atari games [Colab Notebook](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/master/atari_games.ipynb)
 - Breakout (trained agent included) [Colab Notebook](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/master/breakout.ipynb)
 - Hindsight Experience Replay [Colab Notebook](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/master/stable_baselines_her.ipynb)
-- RL Baselines zoo [Colab Notebook](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/master/rl_baselines_zoo.ipynb)
+- RL Baselines zoo [Colab Notebook](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/master/rl-baselines-zoo.ipynb)
 
 
 ## RL Tutorial JNRR19
