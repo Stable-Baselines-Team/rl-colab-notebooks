@@ -1,20 +1,20 @@
-# Stable Baselines RL Colab Notebooks
+# Stable Baselines3 RL Colab Notebooks
 
-Colab notebooks part of the documentation of [Stable Baselines](https://github.com/hill-a/stable-baselines) reinforcement learning library
+Colab notebooks part of the documentation of [Stable Baselines3](https://github.com/DLR-RM/stable-baselines3) reinforcement learning library
 
 Those notebooks are independent examples.
 
-Documentation: https://stable-baselines.readthedocs.io/)
+Documentation: https://stable-baselines.readthedocs.io/
 
 ## Content
 
 - Getting Started [Colab Notebook](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/master/stable_baselines_getting_started.ipynb)
--  Saving, loading [Colab Notebook](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/master/saving_loading_dqn.ipynb)
+<!-- -  Saving, loading [Colab Notebook](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/master/saving_loading_dqn.ipynb)
 - Multiprocessing [Colab Notebook](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/master/multiprocessing_rl.ipynb)
 - Monitor Training [Colab Notebook](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/master/monitor_training.ipynb)
 - Atari games [Colab Notebook](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/master/atari_games.ipynb)
 - Breakout (trained agent included) [Colab Notebook](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/master/breakout.ipynb)
-- Hindsight Experience Replay [Colab Notebook](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/master/stable_baselines_her.ipynb)
+- Hindsight Experience Replay [Colab Notebook](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/master/stable_baselines_her.ipynb) -->
 - RL Baselines zoo [Colab Notebook](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/master/rl-baselines-zoo.ipynb)
 
 
