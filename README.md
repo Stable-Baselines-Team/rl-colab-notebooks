@@ -9,13 +9,13 @@ Documentation: https://stable-baselines.readthedocs.io/
 ## Content
 
 - Getting Started [Colab Notebook](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/sb3/stable_baselines_getting_started.ipynb)
-<!-- -  Saving, loading [Colab Notebook](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/master/saving_loading_dqn.ipynb)
-- Multiprocessing [Colab Notebook](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/master/multiprocessing_rl.ipynb)
-- Monitor Training [Colab Notebook](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/master/monitor_training.ipynb)
-- Atari games [Colab Notebook](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/master/atari_games.ipynb)
-- Breakout (trained agent included) [Colab Notebook](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/master/breakout.ipynb)
-- Hindsight Experience Replay [Colab Notebook](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/master/stable_baselines_her.ipynb) -->
-- RL Baselines3 zoo [Colab Notebook](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/sb3/rl-baselines-zoo.ipynb)
+-  Saving, loading [Colab Notebook](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/sb3/saving_loading_dqn.ipynb)
+<!-- - Multiprocessing [Colab Notebook](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/sb3/multiprocessing_rl.ipynb)
+- Monitor Training [Colab Notebook](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/sb3/monitor_training.ipynb)
+- Atari games [Colab Notebook](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/sb3/atari_games.ipynb)
+- Breakout (trained agent included) [Colab Notebook](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/sb3/breakout.ipynb)
+- Hindsight Experience Replay [Colab Notebook](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/sb3/stable_baselines_her.ipynb) -->
+- RL Baselines3 Zoo [Colab Notebook](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/sb3/rl-baselines-zoo.ipynb)
 
 
 ## RL Tutorial JNRR19
