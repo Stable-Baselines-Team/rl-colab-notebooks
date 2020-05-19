@@ -20,10 +20,10 @@ Documentation: https://stable-baselines.readthedocs.io/
 
 ## RL Tutorial JNRR19
 
-We recommend looking at [rl-tutorial-jnrr19](https://github.com/araffin/rl-tutorial-jnrr19) for a more complete tutorial.
+We recommend looking at [rl-tutorial-jnrr19](https://github.com/araffin/rl-tutorial-jnrr19/tree/sb3) for a more complete tutorial.
 
-1. Getting Started [Colab Notebook](https://colab.research.google.com/github/araffin/rl-tutorial-jnrr19/blob/master/1_getting_started.ipynb)
-2. Gym Wrappers, saving and loading models [Colab Notebook](https://colab.research.google.com/github/araffin/rl-tutorial-jnrr19/blob/master/2_gym_wrappers_saving_loading.ipynb)
-3. Multiprocessing [Colab Notebook](https://colab.research.google.com/github/araffin/rl-tutorial-jnrr19/blob/master/3_multiprocessing.ipynb)
-4. Callbacks and hyperparameter tuning [Colab Notebook](https://colab.research.google.com/github/araffin/rl-tutorial-jnrr19/blob/master/4_callbacks_hyperparameter_tuning.ipynb)
-5. Creating a custom gym environment [Colab Notebook](https://colab.research.google.com/github/araffin/rl-tutorial-jnrr19/blob/master/5_custom_gym_env.ipynb)
+1. Getting Started [Colab Notebook](https://colab.research.google.com/github/araffin/rl-tutorial-jnrr19/blob/sb3/1_getting_started.ipynb)
+2. Gym Wrappers, saving and loading models [Colab Notebook](https://colab.research.google.com/github/araffin/rl-tutorial-jnrr19/blob/sb3/2_gym_wrappers_saving_loading.ipynb)
+3. Multiprocessing [Colab Notebook](https://colab.research.google.com/github/araffin/rl-tutorial-jnrr19/blob/sb3/3_multiprocessing.ipynb)
+4. Callbacks and hyperparameter tuning [Colab Notebook](https://colab.research.google.com/github/araffin/rl-tutorial-jnrr19/blob/sb3/4_callbacks_hyperparameter_tuning.ipynb)
+5. Creating a custom gym environment [Colab Notebook](https://colab.research.google.com/github/araffin/rl-tutorial-jnrr19/blob/sb3/5_custom_gym_env.ipynb)
