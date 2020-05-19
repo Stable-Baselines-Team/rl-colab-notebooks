@@ -4,7 +4,7 @@ Colab notebooks part of the documentation of [Stable Baselines3](https://github.
 
 Those notebooks are independent examples.
 
-Documentation: https://stable-baselines.readthedocs.io/
+Documentation: https://stable-baselines3.readthedocs.io/
 
 ## Content
 
