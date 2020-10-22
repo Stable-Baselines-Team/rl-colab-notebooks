@@ -16,7 +16,7 @@ Documentation: https://stable-baselines3.readthedocs.io/
 - PyBullet: Normalizing input features [Colab Notebook](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/sb3/pybullet.ipynb)
 - Pre-training using Behavior Cloning [Colab Notebook](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/sb3/pretraining.ipynb)
 - RL Baselines3 Zoo [Colab Notebook](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/sb3/rl-baselines-zoo.ipynb)
-<!-- - Hindsight Experience Replay [Colab Notebook](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/sb3/stable_baselines_her.ipynb) -->
+- Hindsight Experience Replay [Colab Notebook](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/sb3/stable_baselines_her.ipynb)
 
 
 ## RL Tutorial JNRR19
