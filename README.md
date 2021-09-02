@@ -18,7 +18,9 @@ Documentation: https://stable-baselines3.readthedocs.io/
 - RL Baselines3 Zoo [Colab Notebook](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/sb3/rl-baselines-zoo.ipynb)
 - Hindsight Experience Replay [Colab Notebook](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/sb3/stable_baselines_her.ipynb)
 - Advanced Saving and Loading [Colab Notebook](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/sb3/advanced_saving_loading.ipynb)
+- Track Experiments with Weights and Biases [Colab Notebook](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/sb3/stable_baselines_wandb.ipynb)
 - DQN SB3 and Double DQN [Colab Notebook](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/sb3/dqn_sb3.ipynb)
+
 
 ## RL Tutorial JNRR19
 
