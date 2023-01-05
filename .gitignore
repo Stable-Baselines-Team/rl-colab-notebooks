@@ -1,0 +1,4 @@
+*.pkl
+.ipynb_checkpoints/
+logs/
+*.zip
