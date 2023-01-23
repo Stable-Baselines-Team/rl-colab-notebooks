@@ -4,3 +4,5 @@ logs/
 *.zip
 videos/
 *.npz
+runs/
+wandb/
